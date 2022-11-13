@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FB_Video_Downloader</string>
+    <string name="admob_banner_ad" >ad</string>
+    <string name="download_started">download_started</string>
+    <string name="enter_url">Enter url</string>
+    <string name="enter_valid_url">Enter valid url</string>
+
+</resources>
